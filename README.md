@@ -5,7 +5,7 @@ Make sure to install anaconda and jupyter notebook is working properly.
 
 To install anaconda follow [this](https://conda.io/docs/user-guide/install/index.html) tutorial.
 
-To run jupyter notebok
+To run jupyter notebook
 >	$ jupyter notebook
 
 You also need Scikit-Learn to run the project. Use
